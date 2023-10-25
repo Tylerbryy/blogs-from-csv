@@ -32,7 +32,7 @@ def clear_screen():
 
 clear_screen()
 
-openai.api_key = "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"
+openai.api_key = "your api key"
 
 def select_file_path():
     root = tk.Tk()
